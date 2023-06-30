@@ -1,6 +1,6 @@
 # Inicializace repozitáře
 
-cd ~  
+cd ~/repos  
 mkdir "projekt"  
 git init  
 
