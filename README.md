@@ -2,6 +2,7 @@
 
 cd ~/repos  
 mkdir "projekt"  
+cd projekt  
 git init  
 
 <jdi na github a udělej nový repo>  
